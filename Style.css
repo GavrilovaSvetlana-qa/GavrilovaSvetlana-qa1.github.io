@@ -1,0 +1,30 @@
+h1 {
+font-size: 35px;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3 {
+    color: #333;
+}
+
+h3:hover {
+color: burlywood;}
+h3 {background-color: lemonchiffon;}
+body {background-color: lightskyblue;}
+.contact {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
